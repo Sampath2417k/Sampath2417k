@@ -2,7 +2,7 @@
 
 # hey, I'm Sampath 👋
 
-**CS undergrad · Hyderabad · building my way up**
+**EE undergrad · Hyderabad · building my way up**
 
 [![GitHub followers](https://img.shields.io/github/followers/sampath2417k?label=Follow&style=social)](https://github.com/sampath2417k)
 &nbsp;
