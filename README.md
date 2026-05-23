@@ -1,81 +1,97 @@
-<!-- Header -->
 <div align="center">
 
-```
- ___ _   _ __  __ ___   _ _____ _  _ ____  _  _____  __
-/ __| | | |  \/  |  _ \ /_\_   _| || |_  / | |/ / / / /
-\__ \ |_| | |\/| | |_) / _ \| | | __ |/ /| |   <| |_| | 
-|___/\___/|_|  |_|____/_/ \_\_| |_||_/___|_|_|\_\\___/ 
-```
+# hey, I'm Sampath 👋
 
-**sampath2417k**
+**CS undergrad · Hyderabad · building my way up**
 
-*CS undergrad · curious · learning in public*
+[![GitHub followers](https://img.shields.io/github/followers/sampath2417k?label=Follow&style=social)](https://github.com/sampath2417k)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=sampath2417k&color=grey&style=flat&label=profile+views)](https://github.com/sampath2417k)
 
 </div>
 
 ---
 
-### about me
+### who am i
 
-I'm a third-year Computer Science student at CIET, Andhra Pradesh. I don't have a long list of projects to show off — but I'm genuinely curious about how things work under the hood, and I'm building my understanding one step at a time.
+Fourth year Computer Science student based in **Hyderabad**. I'm not going to list things I don't know — but I'm genuinely curious about how things work, and I'm slowly building that understanding.
 
-I spend more time breaking things and figuring out why than shipping polished work. That's where I am right now, and I'm okay with that.
-
----
-
-### what i'm actually learning
-
-- **HTML & CSS** — the only language I'm comfortable calling mine right now
-- Getting familiar with **Git & GitHub** (this README is proof)
-- Coursework in **Microprocessors, Power Electronics, Renewable Energy**
-- NPTEL certifications in **Quantum Computing (Qiskit)**, **Fuzzy Logic**, **Smart Grid**
+Right now I'm more of a tinkerer than a developer. I break things, figure out why they broke, and learn from that. That's the phase I'm in.
 
 ---
 
-### what i'm into (outside of class)
+### what i know
 
-- Android modding — custom ROMs, rooting, tinkering with hardware I own
-- Open source software & privacy-respecting tools
-- Understanding how computers actually work at a low level
+```
+HTML & CSS          ████████░░░░   getting comfortable
+Git & GitHub        ████░░░░░░░░   learning as I go
+Linux / CLI         ████░░░░░░░░   daily driver stuff
+```
+
+---
+
+### what i'm into
+
+- 🔧 **Android modding** — custom ROMs, rooting, deep device customization
+- 🔒 **Open source & privacy** — FOSS-first mindset, self-hosted tools
+- ⚙️ **Low-level stuff** — how computers actually work underneath
+- 📡 **Emerging tech** — Quantum Computing, Smart Grids, IoT
 
 ---
 
 ### currently
 
-- 📖 III year B.Tech, Computer Science — CIET, Guntur
-- 🔧 Learning by doing, not just by reading
-- 🌱 Building a foundation before building projects
+- 📖 4th year B.Tech — Computer Science
+- 🌍 Based in **Hyderabad, India**
+- 🔨 Working on getting my portfolio site up
+- 🌱 Slowly picking up more web skills
 
 ---
 
-### stats
+### github stats
 
 <div align="center">
 
-![sampath2417k's GitHub stats](https://github-readme-stats.vercel.app/api?username=sampath2417k&show_icons=true&theme=dark&hide_border=true&hide=contribs&count_private=true)
+![Sampath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampath2417k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampath2417k&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampath2417k&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sampath2417k&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-### find me
+### certifications
 
-- 🌐 [sampath2417k.is-a.dev](https://sampath2417k.is-a.dev) *(portfolio — work in progress)*
-- 💻 [github.com/sampath2417k](https://github.com/sampath2417k)
+| Course | Platform |
+|--------|----------|
+| Quantum Computing with Qiskit | NPTEL |
+| Fuzzy Sets & Logic | NPTEL |
+| Smart Grid Technologies | NPTEL |
 
 ---
 
-### a honest note
+### find me
 
-> I'm not going to list 15 technologies I've "worked with" just to make this look impressive.  
-> I know HTML & CSS. Everything else is still being figured out.  
-> Come back in a year — this page will look different.
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/portfolio-sampath2417k.is--a.dev-black?style=for-the-badge&logo=firefox)](https://sampath2417k.is-a.dev)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/github-sampath2417k-black?style=for-the-badge&logo=github)](https://github.com/sampath2417k)
+
+</div>
+
+---
+
+### fun facts
+
+- I've flashed more custom ROMs than I've built projects — and I'm fine with that
+- My daily driver runs a custom Android build I set up myself
+- I actually enjoy reading about how microprocessors work
 
 ---
 
 <div align="center">
-<sub>readme last updated: May 2026</sub>
+<sub>honest readme · no fake skills · updated May 2026</sub>
 </div>
