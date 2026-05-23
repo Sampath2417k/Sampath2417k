@@ -14,7 +14,7 @@
 
 ### who am i
 
-Fourth year Computer Science student based in **Hyderabad**. I'm not going to list things I don't know — but I'm genuinely curious about how things work, and I'm slowly building that understanding.
+Fourth year Electrical Engineering student based in **Hyderabad**. I'm not going to list things I don't know — but I'm genuinely curious about how things work, and I'm slowly building that understanding.
 
 Right now I'm more of a tinkerer than a developer. I break things, figure out why they broke, and learn from that. That's the phase I'm in.
 
@@ -41,7 +41,7 @@ Linux / CLI         ████░░░░░░░░   daily driver stuff
 
 ### currently
 
-- 📖 4th year B.Tech — Computer Science
+- 📖 4th year B.Tech — Electrical Engineering
 - 🌍 Based in **Hyderabad, India**
 - 🔨 Working on getting my portfolio site up
 - 🌱 Slowly picking up more web skills
