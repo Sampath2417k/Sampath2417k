@@ -66,8 +66,8 @@ Linux / CLI         ████░░░░░░░░   daily driver stuff
 
 | Course | Platform |
 |--------|----------|
-| Quantum Computing with Qiskit | NPTEL |
-| Fuzzy Sets & Logic | NPTEL |
+| Cloud Computing | NPTEL |
+| AI Concepts & Techniques | NPTEL |
 | Smart Grid Technologies | NPTEL |
 
 ---
