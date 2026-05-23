@@ -78,8 +78,7 @@ Linux / CLI         ████░░░░░░░░   daily driver stuff
 
 [![Portfolio](https://img.shields.io/badge/portfolio-sampath2417k.is--a.dev-black?style=for-the-badge&logo=firefox)](https://sampath2417k.is-a.dev)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/github-sampath2417k-black?style=for-the-badge&logo=github)](https://github.com/sampath2417k)
-![GitHub Streak](https://streak-stats.demolab.com?user=sampath2417k&theme=tokyonight&hide_border=true)
+
 
 ![snake](https://raw.githubusercontent.com/sampath2417k/sampath2417k/output/github-contribution-grid-snake-dark.svg)
 </div>
