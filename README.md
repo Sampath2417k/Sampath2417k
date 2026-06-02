@@ -104,11 +104,11 @@ Hermes Agent        ███████░░░░░  Daily Use
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampath2417k\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampath2417k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampath2417k\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampath2417k&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sampath2417k\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sampath2417k&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -118,7 +118,6 @@ Hermes Agent        ███████░░░░░  Daily Use
 
 * 📱 I've flashed more custom ROMs than I've built web projects
 * 🔧 I enjoy fixing software problems just to understand why they happened
-* 🐧 Linux is my preferred environment for learning and experimentation
 * 📖 I can spend hours reading about processors, operating systems, and device internals
 
 ---
