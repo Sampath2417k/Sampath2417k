@@ -1,98 +1,137 @@
-<div align="center">
+# Hey, I'm Sampath 👋
 
-# hey, I'm Sampath 👋
+### Electrical Engineering Student | Android Enthusiast | Open Source Explorer
 
-**EE undergrad · Hyderabad · building my way up**
+Fourth-year Electrical Engineering student from Hyderabad, India.
 
-[![GitHub followers](https://img.shields.io/github/followers/sampath2417k?label=Follow&style=social)](https://github.com/sampath2417k)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=sampath2417k&color=grey&style=flat&label=profile+views)](https://github.com/sampath2417k)
-
-</div>
+I enjoy understanding how technology works beneath the surface — whether that's Android internals, Linux systems, firmware, networking, or computer architecture. Most of my learning comes from experimentation, breaking things, fixing them, and documenting what I discover along the way.
 
 ---
 
-### who am i
+## About Me
 
-Fourth year Electrical Engineering student based in **Hyderabad**. I'm not going to list things I don't know — but I'm genuinely curious about how things work, and I'm slowly building that understanding.
-
-Right now I'm more of a tinkerer than a developer. I break things, figure out why they broke, and learn from that. That's the phase I'm in.
+* 🎓 B.Tech in Electrical Engineering
+* 📍 Hyderabad, India
+* 🔧 Passionate about Android customization and system-level tinkering
+* 🔒 Interested in privacy-focused and open-source technologies
+* ⚡ Exploring cybersecurity, networking, and low-level computing
 
 ---
 
-### what i know
+## Skills & Technologies
 
+### Web
+
+```text
+HTML                ████████░░░░  Intermediate
+CSS                 ███████░░░░░  Intermediate
 ```
-HTML & CSS          ████████░░░░   getting comfortable
-Git & GitHub        ████░░░░░░░░   learning as I go
-Linux / CLI         ████░░░░░░░░   daily driver stuff
+
+### Tools
+
+```text
+Git                 █████░░░░░░░  Learning
+GitHub              ██████░░░░░░  Comfortable
+Linux CLI           ███████░░░░░  Daily Use
 ```
 
----
+### System & Device Experience
 
-### what i'm into
-
-- 🔧 **Android modding** — custom ROMs, rooting, deep device customization
-- 🔒 **Open source & privacy** — FOSS-first mindset, self-hosted tools
-- ⚙️ **Low-level stuff** — how computers actually work underneath
-- 📡 **Emerging tech** — Quantum Computing, Smart Grids, IoT
-
----
-
-### currently
-
-- 📖 4th year B.Tech — Electrical Engineering
-- 🌍 Based in **Hyderabad, India**
-- 🔨 Working on getting my portfolio site up
-- 🌱 Slowly picking up more web skills
+* Android Rooting
+* Custom ROM Installation
+* KernelSU & Root Management
+* Recovery & Bootloader Operations
+* Device Troubleshooting
+* Basic Networking Concepts
+* Windows & Linux System Administration
 
 ---
 
-### github stats
+## Interests
+
+### Android & Mobile Systems
+
+* Custom ROMs
+* Rooting and customization
+* Mobile security
+* Android internals
+
+### Open Source & Privacy
+
+* FOSS software
+* Self-hosted services
+* Privacy-respecting alternatives
+* Digital ownership
+
+### Engineering & Computing
+
+* Computer Architecture
+* Embedded Systems
+* Smart Grids
+* IoT
+* Networking
+* Cybersecurity Fundamentals
+
+### Emerging Technologies
+
+* Quantum Computing
+* Artificial Intelligence
+* Edge Computing
+
+---
+
+## Currently Working On
+
+* 🌐 Building my personal portfolio website
+* 📖 Strengthening web development fundamentals
+* 🐧 Learning Linux more deeply
+* 🔒 Exploring cybersecurity concepts
+* ⚙️ Understanding operating systems and computer architecture
+
+---
+
+## Certifications
+
+| Certification            | Platform |
+| ------------------------ | -------- |
+| Cloud Computing          | NPTEL    |
+| AI Concepts & Techniques | NPTEL    |
+| Smart Grid Technologies  | NPTEL    |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![Sampath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampath2417k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampath2417k\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampath2417k&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampath2417k\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sampath2417k&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sampath2417k\&theme=tokyonight\&hide_border=true)
 
 </div>
 
 ---
 
-### certifications
+## Fun Facts
 
-| Course | Platform |
-|--------|----------|
-| Cloud Computing | NPTEL |
-| AI Concepts & Techniques | NPTEL |
-| Smart Grid Technologies | NPTEL |
-
----
-
-### find me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/portfolio-sampath2417k.is--a.dev-black?style=for-the-badge&logo=firefox)](https://sampath2417k.is-a.dev)
-&nbsp;
-
-
-![snake](https://raw.githubusercontent.com/sampath2417k/sampath2417k/output/github-contribution-grid-snake-dark.svg)
-</div>
+* 📱 I've flashed more custom ROMs than I've built web projects
+* 🔧 I enjoy fixing software problems just to understand why they happened
+* 🐧 Linux is my preferred environment for learning and experimentation
+* 📖 I can spend hours reading about processors, operating systems, and device internals
 
 ---
 
-### fun facts
+## Connect
 
-- I've flashed more custom ROMs than I've built projects — and I'm fine with that
-- My daily driver runs a custom Android build I set up myself
-- I actually enjoy reading about how microprocessors work
+* 🌐 Portfolio: https://sampath2417k.is-a.dev
+* 💻 GitHub: https://github.com/sampath2417k
 
 ---
 
 <div align="center">
-<sub>honest readme · no fake skills · updated May 2026</sub>
+
+*"Curiosity first. Expertise follows."*
+
 </div>
