@@ -32,7 +32,7 @@ CSS                 ███████░░░░░  Intermediate
 ```text
 Git                 █████░░░░░░░  Learning
 GitHub              ██████░░░░░░  Comfortable
-Linux CLI           ███████░░░░░  Daily Use
+Hermes Agent        ███████░░░░░  Daily Use
 ```
 
 ### System & Device Experience
