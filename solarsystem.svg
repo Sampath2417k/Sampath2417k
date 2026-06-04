@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <rect width="500" height="500" fill="#0d1117"/>
+
+  <!-- opensource atmosphere banner -->
+  <text x="250" y="35" fill="#58a6ff" font-family="monospace" font-size="12" text-anchor="middle" opacity="0.7">
+    [ opensource ]
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Orbit rings -->
+  <ellipse cx="250" cy="280" rx="160" ry="60" fill="none" stroke="#1f6feb" stroke-width="0.5" opacity="0.3" stroke-dasharray="4,4">
+    <animateTransform attributeName="transform" type="rotate" from="0 250 280" to="360 250 280" dur="30s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="250" cy="280" rx="120" ry="45" fill="none" stroke="#1f6feb" stroke-width="0.5" opacity="0.3" stroke-dasharray="4,4">
+    <animateTransform attributeName="transform" type="rotate" from="0 250 280" to="-360 250 280" dur="20s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="250" cy="280" rx="200" ry="75" fill="none" stroke="#1f6feb" stroke-width="0.5" opacity="0.2" stroke-dasharray="3,5">
+    <animateTransform attributeName="transform" type="rotate" from="0 250 280" to="360 250 280" dur="40s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Center sun: Android + Sampath -->
+  <circle cx="250" cy="280" r="30" fill="#f0883e" opacity="0.15"/>
+  <circle cx="250" cy="280" r="22" fill="#f0883e" opacity="0.25"/>
+  <text x="250" y="275" fill="#f0883e" font-family="monospace" font-size="10" text-anchor="middle" font-weight="bold">android</text>
+  <text x="250" y="290" fill="#f0883e" font-family="monospace" font-size="8" text-anchor="middle">sampath</text>
+  <circle cx="250" cy="280" r="30" fill="none" stroke="#f0883e" stroke-width="1" opacity="0.4">
+    <animate attributeName="r" values="28;32;28" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Planet 1: Windows (outer orbit) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 250 280" to="360 250 280" dur="12s" repeatCount="indefinite"/>
+    <g transform="translate(250,195)">
+      <circle cx="0" cy="0" r="14" fill="#1f6feb" opacity="0.3"/>
+      <text x="0" y="3" fill="#58a6ff" font-family="monospace" font-size="7" text-anchor="middle">win</text>
+    </g>
+  </g>
+
+  <!-- Planet 2: Linux (inner orbit, opposite direction) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 250 280" to="-360 250 280" dur="9s" repeatCount="indefinite"/>
+    <g transform="translate(370,260)">
+      <circle cx="0" cy="0" r="14" fill="#3fb950" opacity="0.3"/>
+      <text x="0" y="3" fill="#3fb950" font-family="monospace" font-size="7" text-anchor="middle">linux</text>
+    </g>
+  </g>
+
+  <!-- Planet 3: Python (outer orbit) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 250 280" to="360 250 280" dur="16s" repeatCount="indefinite"/>
+    <g transform="translate(250,355)">
+      <circle cx="0" cy="0" r="14" fill="#f0883e" opacity="0.3"/>
+      <text x="0" y="3" fill="#f0883e" font-family="monospace" font-size="7" text-anchor="middle">python</text>
+    </g>
+  </g>
+
+  <!-- Planet 4: HTML (inner orbit) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 250 280" to="-360 250 280" dur="7s" repeatCount="indefinite"/>
+    <g transform="translate(130,300)">
+      <circle cx="0" cy="0" r="12" fill="#d29922" opacity="0.3"/>
+      <text x="0" y="3" fill="#d29922" font-family="monospace" font-size="6" text-anchor="middle">html</text>
+    </g>
+  </g>
+
+  <!-- Small star dots scattered -->
+  <g opacity="0.4">
+    <text x="45" y="100" fill="#58a6ff" font-family="monospace" font-size="6">.</text>
+    <text x="430" y="80" fill="#58a6ff" font-family="monospace" font-size="6">.</text>
+    <text x="380" y="440" fill="#58a6ff" font-family="monospace" font-size="6">.</text>
+    <text x="70" y="420" fill="#58a6ff" font-family="monospace" font-size="6">.</text>
+    <text x="300" y="60" fill="#58a6ff" font-family="monospace" font-size="6">.</text>
+    <text x="150" y="450" fill="#58a6ff" font-family="monospace" font-size="6">.</text>
+    <text x="440" y="200" fill="#58a6ff" font-family="monospace" font-size="6">.</text>
+    <text x="30" y="250" fill="#58a6ff" font-family="monospace" font-size="6">.</text>
+  </g>
+
+  <!-- Bottom caption -->
+  <text x="250" y="490" fill="#8b949e" font-family="monospace" font-size="8" text-anchor="middle" opacity="0.5">solar system of me</text>
+</svg>

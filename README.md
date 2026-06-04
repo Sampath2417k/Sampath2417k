@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="kaleidoscope.svg" alt="ASCII Kaleidoscope" width="300" />
+  <img src="solarsystem.svg" alt="Solar System of Me" width="400" />
 </p>
 
 <p align="center">
