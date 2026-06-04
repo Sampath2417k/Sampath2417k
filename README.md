@@ -83,12 +83,12 @@ Android             █████████░  Custom ROMs & Rooting
 ## 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sampath2417k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampath2417k&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sampath2417k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath2417k&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sampath2417k&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Sampath2417k&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -96,14 +96,14 @@ Android             █████████░  Custom ROMs & Rooting
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://sampath2417k.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://github.com/sampath2417k"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://Sampath2417k.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://github.com/Sampath2417k"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sampath2417k&color=58A6FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sampath2417k&color=58A6FF&style=flat" alt="Profile views" />
 </p>
 
 > 💡 Fun fact: I've flashed more custom ROMs than I've built web projects. I fix software problems just to understand *why* they happened.
