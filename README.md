@@ -26,7 +26,7 @@ I'm a fourth-year Electrical Engineering student who loves understanding how thi
 Web Basics          ████████░░  HTML & CSS
 Git                 ██████░░░░  Version Control
 GitHub              ███████░░░  Collaboration
-Linux               ██████░░░░  Daily Driver
+Windows             ██████░░░░  Daily Driver
 Android             █████████░  Custom ROMs & Rooting
 ```
 
