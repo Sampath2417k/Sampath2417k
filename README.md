@@ -2,30 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Sampath!;Electrical+Engineering+Student;Android+Enthusiast;Open+Source+Explorer" alt="Typing SVG" />
 </p>
 
-```
-              __,aaPPPPPPPPaa,__
-          ,adP"""'          `""Yb,_
-       ,adP'                     `"Yb,
-     ,dP'     ,aadPP"""""YYba,_     `"Y,
-    ,P'    ,aP"'            `""Ya,     "Y,
-   ,P'    aP'     _________     `"Ya    `Yb,
-  ,P'    d"    ,adP""""""""Yba,    `Y,    "Y,
- ,d'   ,d'   ,dP"            `Yb,   `Y,    `Y,
- d'   ,d'   ,d'    ,dP""Yb,    `Y,   `Y,    `b
- 8    d'    d'   ,d"      "b,   `Y,   `8,    Y,
- 8    8     8    d'    _   `Y,   `8    `8    `b
- 8    8     8    8     8    `8    8     8     8
- 8    Y,    Y,   `b, ,aP     P    8    ,P     8
- I,   `Y,   `Ya    """"     d'   ,P    d"    ,P
- `Y,   `8,    `Ya         ,8"   ,P'   ,P'    d'
-  `Y,   `Ya,    `Ya,,__,,d"'   ,P'   ,P"    ,P
-   `Y,    `Ya,     `""""'     ,P'   ,d"    ,P'
-    `Yb,    `"Ya,_          ,d"    ,P'    ,P'
-      `Yb,      ""YbaaaaaadP"     ,P'    ,P'
-        `Yba,                   ,d'    ,dP'
-           `"Yba,__       __,adP"     dP"
-               `"""""""""""""'
-```
+<p align="center">
+  <img src="kaleidoscope.svg" alt="ASCII Kaleidoscope" width="300" />
+</p>
+
+<p align="center">
+  <i>"Curiosity first. Expertise follows."</i>
+</p>
 
 ---
 
