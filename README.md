@@ -1,136 +1,109 @@
-# Hey, I'm Sampath 👋
-
-### Electrical Engineering Student | Android Enthusiast | Open Source Explorer
-
-Fourth-year Electrical Engineering student from Hyderabad, India.
-
-I enjoy understanding how technology works beneath the surface — whether that's Android internals, Linux systems, firmware, networking, or computer architecture. Most of my learning comes from experimentation, breaking things, fixing them, and documenting what I discover along the way.
-
----
-
-## About Me
-
-* 🎓 B.Tech in Electrical Engineering
-* 📍 Hyderabad, India
-* 🔧 Passionate about Android customization and system-level tinkering
-* 🔒 Interested in privacy-focused and open-source technologies
-* ⚡ Exploring cybersecurity, networking, and low-level computing
-
----
-
-## Skills & Technologies
-
-### Web
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Sampath!;Electrical+Engineering+Student;Android+Enthusiast;Open+Source+Explorer" alt="Typing SVG" />
+</p>
 
 ```text
-HTML                ████████░░░░  Intermediate
-CSS                 ███████░░░░░  Intermediate
+      ___           ___           ___           ___     
+     /\  \         /\  \         /\  \         /\  \    
+    /::\  \       /::\  \       /::\  \       /::\  \   
+   /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \  
+  /:/  \:\  \   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \ 
+ /:/__/ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\
+ \:\  \  \/__/ \/__\:\/:/  / \/__\:\/:/  / \/__\:\/:/  /
+  \:\  \            \::/  /       \::/  /       \::/  / 
+   \:\  \           /:/  /        /:/  /        /:/  /  
+    \:\__\         /:/  /        /:/  /        /:/  /   
+     \/__/         \/__/         \/__/         \/__/    
 ```
 
-### Tools
+<p align="center">
+  <i>"Curiosity first. Expertise follows."</i>
+</p>
 
-```text
-Git                 █████░░░░░░░  Learning
-GitHub              ██████░░░░░░  Comfortable
-Hermes Agent        ███████░░░░░  Daily Use
+---
+
+**📍 Hyderabad, India** • **🎓 B.Tech Electrical Engineering**
+
+I'm a fourth-year Electrical Engineering student who loves understanding how things work below the surface — Android internals, Linux systems, firmware, networking, and computer architecture. I learn by breaking things, fixing them, and writing about what I discover.
+
+---
+
+## 🛠️ Tech Arsenal
+
+### What I Work With
+
+```
+Web Basics          ████████░░  HTML & CSS
+Git                 ██████░░░░  Version Control
+GitHub              ███████░░░  Collaboration
+Linux               ██████░░░░  Daily Driver
+Android             █████████░  Custom ROMs & Rooting
 ```
 
-### System & Device Experience
+### ⚡ System-Level Expertise
 
-* Android Rooting
-* Custom ROM Installation
-* KernelSU & Root Management
-* Recovery & Bootloader Operations
-* Device Troubleshooting
-* Basic Networking Concepts
-* Windows & Linux System Administration
+![Android](https://img.shields.io/badge/Android_Rooting-3DDC84?style=flat&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
----
+`Android Rooting` `Custom ROMs` `KernelSU` `Bootloader` `Recovery` `Device Troubleshooting` `Networking` `System Administration`
 
-## Interests
+### 🧠 Currently Leveling Up
 
-### Android & Mobile Systems
-
-* Custom ROMs
-* Rooting and customization
-* Mobile security
-* Android internals
-
-### Open Source & Privacy
-
-* FOSS software
-* Self-hosted services
-* Privacy-respecting alternatives
-* Digital ownership
-
-### Engineering & Computing
-
-* Computer Architecture
-* Embedded Systems
-* Smart Grids
-* IoT
-* Networking
-* Cybersecurity Fundamentals
-
-### Emerging Technologies
-
-* Quantum Computing
-* Artificial Intelligence
-* Edge Computing
+```
+🌐 Web Development     ████░░░░░░  Building my portfolio
+🐧 Linux Deep Dive     ██████░░░░  Understanding the kernel
+🔒 Cybersecurity       ████░░░░░░  Fundamentals & concepts
+⚙️ Computer Arch       ██████░░░░  Low-level computing
+```
 
 ---
 
-## Currently Working On
+## 🎯 What Drives Me
 
-* 🌐 Building my personal portfolio website
-* 📖 Strengthening web development fundamentals
-* 🐧 Learning Linux more deeply
-* 🔒 Exploring cybersecurity concepts
-* ⚙️ Understanding operating systems and computer architecture
-
----
-
-## Certifications
-
-| Certification            | Platform |
-| ------------------------ | -------- |
-| Cloud Computing          | NPTEL    |
-| AI Concepts & Techniques | NPTEL    |
-| Smart Grid Technologies  | NPTEL    |
+| Area | What I Explore |
+|------|---------------|
+| 📱 **Android & Mobile** | Custom ROMs, rooting, internals, mobile security |
+| 🔓 **Open Source & Privacy** | FOSS, self-hosting, privacy-first alternatives |
+| ⚡ **Engineering** | Embedded systems, IoT, smart grids, computer architecture |
+| 🔬 **Emerging Tech** | Quantum computing, AI, edge computing |
 
 ---
 
-## GitHub Stats
+## 🏆 Certifications
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampath2417k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampath2417k&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sampath2417k&theme=tokyonight&hide_border=true)
-
-</div>
+| Certification | Platform |
+|:---|---:|
+| Cloud Computing | NPTEL |
+| AI Concepts & Techniques | NPTEL |
+| Smart Grid Technologies | NPTEL |
 
 ---
 
-## Fun Facts
+## 📊 GitHub Pulse
 
-* 📱 I've flashed more custom ROMs than I've built web projects
-* 🔧 I enjoy fixing software problems just to understand why they happened
-* 📖 I can spend hours reading about processors, operating systems, and device internals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sampath2417k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampath2417k&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
----
-
-## Connect
-
-* 🌐 Portfolio: https://sampath2417k.is-a.dev
-* 💻 GitHub: https://github.com/sampath2417k
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sampath2417k&theme=tokyonight&hide_border=true" width="70%" />
+</p>
 
 ---
 
-<div align="center">
+## 📬 Let's Connect
 
-*"Curiosity first. Expertise follows."*
+<p align="center">
+  <a href="https://sampath2417k.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://github.com/sampath2417k"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sampath2417k&color=58A6FF&style=flat" alt="Profile views" />
+</p>
+
+> 💡 Fun fact: I've flashed more custom ROMs than I've built web projects. I fix software problems just to understand *why* they happened.
